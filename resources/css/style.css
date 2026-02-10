@@ -1,0 +1,15 @@
+/* VARIABLES */
+:root {
+    --color-p: rgb(241, 245, 249);
+    --color-s: rgb(36, 36, 36);
+    --color-a: rgb(1, 0, 91);
+    --color-a2: rgb(121, 84, 243);
+}
+
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+.title {
+    font-family: "Space Grotesk", sans-serif;
+}
