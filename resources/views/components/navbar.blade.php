@@ -14,7 +14,7 @@
 
     <a href="" class="text-lg hidden md:block bg-gray-50 text-[#01005b] px-10 py-2 rounded-3xl button">Get Started</a>
 
-    <a>
+    <a class="md:hidden block">
         <div class="md:hidden block nav-hamburger top-1/2 right-5 -translate-y-1/2 cursor-pointer">
             <span></span>
             <span></span>
